@@ -25,8 +25,8 @@ author: forbi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://karinazile.github.io'
-baseurl: '/forbi_website' # Must be "" (not "/") as "" is what GitHub pages will set
+url: 'https://stopplasticpollution.io'
+baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
