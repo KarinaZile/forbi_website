@@ -1,12 +1,16 @@
 ---
 layout: kz-page
-title: Hello!
+title:
 show_meta: false
 header: no
-image:
-    title: world-wall-by-Karina-Zile.jpg
 permalink: /index.html
 homepage: true
+
 ---
 
-My name is Forbi.
+<img src="/images/forbi.jpg" 
+    alt="Forbi Perise" 
+    style="width: 100%; max-width: 605px;" class="center">
+
+<h3>Hello!</h3>
+My name is Forbi Perise. My dream is to...
