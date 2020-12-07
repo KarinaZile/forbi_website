@@ -8,7 +8,7 @@ homepage: true
 
 ---
 
-<img src="/images/forbi.jpg" 
+<img src="/images/fp-logo-noborder.jpg" 
     alt="Forbi Perise" 
     style="width: 100%; max-width: 605px;" class="center">
 
